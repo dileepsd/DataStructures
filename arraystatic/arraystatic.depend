@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:e:\data structures\arraystatic\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694927529 source:e:\data structures\arraystatic\array_op.c
+	"array.h"
+
+1694927760 e:\data structures\arraystatic\array.h
+
